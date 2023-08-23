@@ -129,6 +129,7 @@ p.title {
 .blue-card-body {
     display: flex;
     justify-content: center;
+    margin-bottom: 64px;
 }
 .blue-card{
     display: flex;
@@ -152,4 +153,11 @@ p.title {
     border-radius: 8px;
     font-size: 16px;
     font-weight: 900;
+}
+.footer {
+    margin-top: auto;
+    background: #1f2937;
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 19px;
 }
